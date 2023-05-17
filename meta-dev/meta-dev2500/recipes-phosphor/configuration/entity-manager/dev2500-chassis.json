@@ -1,0 +1,7 @@
+{
+    "Exposes": [
+    ],
+    "Name": "DEV2500 Chassis",
+    "Probe": "TRUE",
+    "Type": "Chassis"
+}

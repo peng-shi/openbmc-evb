@@ -1,0 +1,5 @@
+/xyz/openbmc_project/sensors/temperature/BMC:
+    eventReadingType: 1
+    offset: 0
+    sensorID: 1
+    sensorType: 1
